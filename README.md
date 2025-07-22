@@ -557,4 +557,40 @@ public async Task<IActionResult> AddInfo(GeneralAllModel model)
 
 Form only sends form fields. Lists are not included, so we re-declare them to avoid null errors and show complete data in the View again.
 
+In a GET request (like when you open the page), we load all the data including lists. But in a POST request (like when submitting a form), only the form data is sent. The other data, like lists, are not included that's why we need to reload them manually.
+
+#### Why we reload the list in POST even if it's already loaded in GET (Home)?
+
+Because HTTP is stateless, meaning...
+
+The data loaded in Home() (GET) does not carry over automatically to the AddInfo() (POST) request.
+
+Each request (GET or POST) is separate. So kahit na-load mo na ang list sa Home(), once you do a POST (submit form), only the form fields are sent not the entire model.
+
+##### Example:
+
+Even if you did this in GET:
+
+```csharp
+public async Task<IActionResult> Home()
+{
+    model.infoAllRecords = await _getInfoServices.GetAllRecordsFromInfo();
+    return View(model);
+}
+
+```
+
+In POST, you still need to do:
+
+```csharp
+model.infoAllRecords = await _getInfoServices.GetAllRecordsFromInfo();
+
+```
+
+
+##### Because:
+
+The model in POST is created fresh from the form input. The list (infoAllRecords) was not part of the form, so it's empty/null when you receive it.
+
+
 
