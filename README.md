@@ -515,4 +515,46 @@ namespace testing.Controllers
 
 ```
 
+<br>
+<br>
+
+### Why I re-declare the list data in the POST method?
+
+HTTP is stateless – every request is fresh.
+After form submit ([HttpPost]), only form fields are sent.
+The other data like lists (infoAllRecords, HobbyAllRecords) are not included, so we re-fetch them.
+
+```csharp
+[HttpPost]
+public async Task<IActionResult> AddInfo(GeneralAllModel model)
+{
+    // Only this data is posted from the form
+    InformationDTO dto = new InformationDTO
+    {
+        name = model.information.name,
+        lastname = model.information.lastname
+    };
+
+    // Re-fetch these lists because HTTP doesn't keep them
+    model.infoAllRecords = await _getInfoServices.GetAllRecordsFromInfo();
+    model.HobbyAllRecords = await _getAllHobbyServices.AllHobbyRecordsAsync();
+
+    var success = await _addAsyncServices.AddAsync(dto);
+    if (success)
+    {
+        return RedirectToAction("Home");
+    }
+    else
+    {
+        ModelState.AddModelError("", "Failed to add information.");
+        return View("Home", model); // Needs full model with lists
+    }
+}
+
+```
+
+#### Summary
+
+Form only sends form fields. Lists are not included, so we re-declare them to avoid null errors and show complete data in the View again.
+
 
