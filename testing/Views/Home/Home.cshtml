@@ -1,0 +1,77 @@
+﻿@model GeneralAllModel
+
+
+
+<h1>Add Information</h1><br>
+
+
+<form asp-controller="Home" asp-action="AddInfo" method="post">
+    <div asp-validation-summary="All"></div>
+    <input asp-for="information.name" /><br>
+    <span asp-validation-for="information.name"></span><br>
+    <input asp-for="information.lastname" /><br>
+    <span asp-validation-for="information.lastname"></span><br>
+    <button type="submit">Add</button>
+</form>
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Lastname</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var records in Model.infoAllRecords)
+        {
+            <tr>
+                <td>@records.name</td>
+                <td>@records.lastname</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+<br>
+<br>
+
+
+
+<h1>Hobby works</h1>
+<br>
+
+
+<form asp-controller="Home" asp-action="AddHobby" method="post">
+    <div asp-validation-summary="All"></div>
+    <input asp-for="hobby.HobbyName" /><br>
+    <span asp-validation-for="hobby.HobbyName"></span><br>
+    <input asp-for="hobby.SecondHobbyName" /><br>
+    <span asp-validation-for="hobby.SecondHobbyName"></span><br>
+    <button type="submit">Add hobby</button>
+</form>
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Hobby</th>
+            <th>Second Hobby</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var records in Model.HobbyAllRecords)
+        {
+            <tr>
+                <td>@records.hobbyname</td>
+                <td>@records.secondhobbyname</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

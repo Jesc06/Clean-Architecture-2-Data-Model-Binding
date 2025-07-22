@@ -1,0 +1,16 @@
+C:\Users\escar\Desktop\testing\testing.Application\bin\Debug\net9.0\testing.Application.deps.json
+C:\Users\escar\Desktop\testing\testing.Application\bin\Debug\net9.0\testing.Application.dll
+C:\Users\escar\Desktop\testing\testing.Application\bin\Debug\net9.0\testing.Application.pdb
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.AssemblyInfoInputs.cache
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.AssemblyInfo.cs
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.csproj.CoreCompileInputs.cache
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.sourcelink.json
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.dll
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\refint\testing.Application.dll
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.pdb
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\ref\testing.Application.dll
+C:\Users\escar\Desktop\testing\testing.Application\bin\Debug\net9.0\testing.Domain.dll
+C:\Users\escar\Desktop\testing\testing.Application\bin\Debug\net9.0\testing.Domain.pdb
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing.Application.csproj.AssemblyReference.cache
+C:\Users\escar\Desktop\testing\testing.Application\obj\Debug\net9.0\testing..6FC88EE5.Up2Date

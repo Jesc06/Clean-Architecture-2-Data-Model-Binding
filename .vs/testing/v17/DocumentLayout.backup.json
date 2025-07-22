@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\escar\\Desktop\\testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748BE7DD-E518-47A4-89AA-FF60BA1AB196}|testing\\testing.csproj|c:\\users\\escar\\desktop\\testing\\testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748BE7DD-E518-47A4-89AA-FF60BA1AB196}|testing\\testing.csproj|solutionrelative:testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748BE7DD-E518-47A4-89AA-FF60BA1AB196}|testing\\testing.csproj|c:\\users\\escar\\desktop\\testing\\testing\\viewmodels\\generalallmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748BE7DD-E518-47A4-89AA-FF60BA1AB196}|testing\\testing.csproj|solutionrelative:testing\\viewmodels\\generalallmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AEA176-8CED-4C26-BC90-E4AAF45955BA}|testing.Infrastructure\\testing.Infrastructure.csproj|c:\\users\\escar\\desktop\\testing\\testing.infrastructure\\repository\\hobby\\addhobbyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8AEA176-8CED-4C26-BC90-E4AAF45955BA}|testing.Infrastructure\\testing.Infrastructure.csproj|solutionrelative:testing.infrastructure\\repository\\hobby\\addhobbyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|c:\\users\\escar\\desktop\\testing\\testing.application\\services\\hobby\\hobbyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|solutionrelative:testing.application\\services\\hobby\\hobbyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|c:\\users\\escar\\desktop\\testing\\testing.application\\interfaces\\hobby\\ihobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|solutionrelative:testing.application\\interfaces\\hobby\\ihobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748BE7DD-E518-47A4-89AA-FF60BA1AB196}|testing\\testing.csproj|c:\\users\\escar\\desktop\\testing\\testing\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{748BE7DD-E518-47A4-89AA-FF60BA1AB196}|testing\\testing.csproj|solutionrelative:testing\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|c:\\users\\escar\\desktop\\testing\\testing.application\\services\\hobby\\getallhobbyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|solutionrelative:testing.application\\services\\hobby\\getallhobbyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AEA176-8CED-4C26-BC90-E4AAF45955BA}|testing.Infrastructure\\testing.Infrastructure.csproj|c:\\users\\escar\\desktop\\testing\\testing.infrastructure\\repository\\hobby\\gellallhobbyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8AEA176-8CED-4C26-BC90-E4AAF45955BA}|testing.Infrastructure\\testing.Infrastructure.csproj|solutionrelative:testing.infrastructure\\repository\\hobby\\gellallhobbyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|c:\\users\\escar\\desktop\\testing\\testing.application\\interfaces\\hobby\\ihobbygetallrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|solutionrelative:testing.application\\interfaces\\hobby\\ihobbygetallrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|c:\\users\\escar\\desktop\\testing\\testing.application\\interfaces\\information\\igetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|solutionrelative:testing.application\\interfaces\\information\\igetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|c:\\users\\escar\\desktop\\testing\\testing.application\\services\\information\\addinfoasyncservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353377E-2EE2-4771-904A-B2329F2307F4}|testing.Application\\testing.Application.csproj|solutionrelative:testing.application\\services\\information\\addinfoasyncservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AEA176-8CED-4C26-BC90-E4AAF45955BA}|testing.Infrastructure\\testing.Infrastructure.csproj|c:\\users\\escar\\desktop\\testing\\testing.infrastructure\\repository\\information\\addinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8AEA176-8CED-4C26-BC90-E4AAF45955BA}|testing.Infrastructure\\testing.Infrastructure.csproj|solutionrelative:testing.infrastructure\\repository\\information\\addinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EAC9-7F9C-48D1-828C-2B236DC774ED}|testing.Domain\\testing.Domain.csproj|c:\\users\\escar\\desktop\\testing\\testing.domain\\entities\\informationdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EAC9-7F9C-48D1-828C-2B236DC774ED}|testing.Domain\\testing.Domain.csproj|solutionrelative:testing.domain\\entities\\informationdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HobbyServices.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Services\\Hobby\\HobbyServices.cs",
+              "RelativeDocumentMoniker": "testing.Application\\Services\\Hobby\\HobbyServices.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Services\\Hobby\\HobbyServices.cs",
+              "RelativeToolTip": "testing.Application\\Services\\Hobby\\HobbyServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:28:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHobbyGetAllRecords.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Interfaces\\Hobby\\IHobbyGetAllRecords.cs",
+              "RelativeDocumentMoniker": "testing.Application\\Interfaces\\Hobby\\IHobbyGetAllRecords.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Interfaces\\Hobby\\IHobbyGetAllRecords.cs",
+              "RelativeToolTip": "testing.Application\\Interfaces\\Hobby\\IHobbyGetAllRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:18:38.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GellAllHobbyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Infrastructure\\Repository\\Hobby\\GellAllHobbyRepository.cs",
+              "RelativeDocumentMoniker": "testing.Infrastructure\\Repository\\Hobby\\GellAllHobbyRepository.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Infrastructure\\Repository\\Hobby\\GellAllHobbyRepository.cs",
+              "RelativeToolTip": "testing.Infrastructure\\Repository\\Hobby\\GellAllHobbyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:21:05.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGetInfo.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Interfaces\\Information\\IGetInfo.cs",
+              "RelativeDocumentMoniker": "testing.Application\\Interfaces\\Information\\IGetInfo.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Interfaces\\Information\\IGetInfo.cs",
+              "RelativeToolTip": "testing.Application\\Interfaces\\Information\\IGetInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:19:11.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:16:41.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "testing\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "testing\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T07:16:29.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralAllModel.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing\\ViewModels\\GeneralAllModel.cs",
+              "RelativeDocumentMoniker": "testing\\ViewModels\\GeneralAllModel.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing\\ViewModels\\GeneralAllModel.cs",
+              "RelativeToolTip": "testing\\ViewModels\\GeneralAllModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:15:59.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InformationDomain.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Domain\\Entities\\InformationDomain.cs",
+              "RelativeDocumentMoniker": "testing.Domain\\Entities\\InformationDomain.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Domain\\Entities\\InformationDomain.cs",
+              "RelativeToolTip": "testing.Domain\\Entities\\InformationDomain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:10:38.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Infrastructure\\Repository\\Information\\AddInfoRepository.cs",
+              "RelativeDocumentMoniker": "testing.Infrastructure\\Repository\\Information\\AddInfoRepository.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Infrastructure\\Repository\\Information\\AddInfoRepository.cs",
+              "RelativeToolTip": "testing.Infrastructure\\Repository\\Information\\AddInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:04:08.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddHobbyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Infrastructure\\Repository\\Hobby\\AddHobbyRepository.cs",
+              "RelativeDocumentMoniker": "testing.Infrastructure\\Repository\\Hobby\\AddHobbyRepository.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Infrastructure\\Repository\\Hobby\\AddHobbyRepository.cs",
+              "RelativeToolTip": "testing.Infrastructure\\Repository\\Hobby\\AddHobbyRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:03:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllHobbyServices.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Services\\Hobby\\GetAllHobbyServices.cs",
+              "RelativeDocumentMoniker": "testing.Application\\Services\\Hobby\\GetAllHobbyServices.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Services\\Hobby\\GetAllHobbyServices.cs",
+              "RelativeToolTip": "testing.Application\\Services\\Hobby\\GetAllHobbyServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:02:51.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddInfoAsyncServices.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Services\\Information\\AddInfoAsyncServices.cs",
+              "RelativeDocumentMoniker": "testing.Application\\Services\\Information\\AddInfoAsyncServices.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Services\\Information\\AddInfoAsyncServices.cs",
+              "RelativeToolTip": "testing.Application\\Services\\Information\\AddInfoAsyncServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:02:03.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHobby.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Interfaces\\Hobby\\IHobby.cs",
+              "RelativeDocumentMoniker": "testing.Application\\Interfaces\\Hobby\\IHobby.cs",
+              "ToolTip": "C:\\Users\\escar\\Desktop\\testing\\testing.Application\\Interfaces\\Hobby\\IHobby.cs",
+              "RelativeToolTip": "testing.Application\\Interfaces\\Hobby\\IHobby.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:00:51.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

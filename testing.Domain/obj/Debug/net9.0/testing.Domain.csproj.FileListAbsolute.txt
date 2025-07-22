@@ -1,0 +1,12 @@
+C:\Users\escar\Desktop\testing\testing.Domain\bin\Debug\net9.0\testing.Domain.deps.json
+C:\Users\escar\Desktop\testing\testing.Domain\bin\Debug\net9.0\testing.Domain.dll
+C:\Users\escar\Desktop\testing\testing.Domain\bin\Debug\net9.0\testing.Domain.pdb
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\testing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\testing.Domain.AssemblyInfoInputs.cache
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\testing.Domain.AssemblyInfo.cs
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\testing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\testing.Domain.sourcelink.json
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\testing.Domain.dll
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\refint\testing.Domain.dll
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\testing.Domain.pdb
+C:\Users\escar\Desktop\testing\testing.Domain\obj\Debug\net9.0\ref\testing.Domain.dll
